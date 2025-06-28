@@ -157,7 +157,7 @@ The engine generates comprehensive meta tags including:
 <!-- And more... -->
 ```
 ## Usage Guide
-
+For a deeper dive into MetaTags features and implementation, head over to the full [usage guide](https://github.com/Nickiam7/MetaTags/blob/main/USAGE.md) for detailed instructions.
 ## Requirements
 
 - Rails 7.0+
