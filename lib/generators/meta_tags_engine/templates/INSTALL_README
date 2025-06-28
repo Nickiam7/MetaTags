@@ -1,0 +1,16 @@
+===============================================================================
+
+  MetaTagsEngine has been successfully installed!
+
+  The engine provides a Current model with meta_tags functionality.
+  You can now use Current.meta_tags in your views and controllers.
+
+  Usage:
+    <%= render Current.meta_tags %>
+
+  For apps with existing Current models, add this line:
+    attribute :meta_tags, default: -> { MetaTags.new }
+
+  Configure the engine in config/initializers/meta_tags_engine.rb
+
+===============================================================================
